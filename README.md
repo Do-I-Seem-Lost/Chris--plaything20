@@ -9,3 +9,6 @@ So here we are.
 Open source collaborative efforts interest me.
 
 More to come.
+
+I am working on a basic text choice adventure game using Python.
+I will be open to input.
