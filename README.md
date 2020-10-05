@@ -12,3 +12,4 @@ More to come.
 
 I am working on a basic text choice adventure game using Python.
 I will be open to input.
+I am trying to stay just beyond my depth.
